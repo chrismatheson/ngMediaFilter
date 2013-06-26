@@ -1,0 +1,10 @@
+{
+  "name": "ngMediaFilter",
+  "version": "0.1.0",
+  "main": "media.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
