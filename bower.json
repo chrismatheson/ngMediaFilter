@@ -1,6 +1,7 @@
 {
   "name": "ngMediaFilter",
   "version": "0.1.0",
+  "authors":["Chris Matheson"],
   "main": "media.js",
   "ignore": [
     "**/.*",
